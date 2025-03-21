@@ -4,21 +4,14 @@ from selenium.webdriver.common.keys import Keys
 
 # Especificar la ruta del ChromeDriver
 service = Service(r"C:\drivers\chromedriver.exe")
-driver = None
+driver = webdriver.Chrome(service=service)
 
-try:
-    driver = webdriver.Chrome(service=service)
-    # Abrir la página
-    driver.get("https://demoqa.com/text-box")
-    
-    # Imprimir el título de la página
-    print("PRIMER TESTING (OBTENER TITULO): ")
-    print(driver.title)
+# Abrir la página
+driver.get("https://demoqa.com/text-box")
 
-except Exception as e:
-    print(f"Se produjo un error: {e}")
+# Imprimir el título de la página
+print("PRIMER TESTING (OBTENER TITULO): ")
+print(driver.title)
 
-finally:
-    if driver:
-        # Cerrar el navegador
-        driver.quit()
+# Cerrar el navegador
+driver.close()
