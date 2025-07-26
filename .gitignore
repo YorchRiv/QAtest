@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.venv/
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Configuración de PyCharm
+.idea/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Otros archivos del sistema/editor
+.DS_Store
+Thumbs.db
+*.swp
