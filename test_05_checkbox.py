@@ -16,7 +16,7 @@ try:
 
 
     time.sleep(5)
-    print("Página cargada correctamente.")
+    print("Página cargada correctamente.") #Final test
 
 except Exception as e:
     print(f"Se produjo un error: {e}")
