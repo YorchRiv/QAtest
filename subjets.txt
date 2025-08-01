@@ -1,0 +1,15 @@
+subjects = [
+    "Maths",
+    "Accounting",
+    "Arts",
+    "Social Studies",
+    "English",
+    "Chemistry",
+    "Physics",
+    "Computer Science",
+    "Economics",
+    "Biology",
+    "History",
+    "Civics",
+    "Hindi"
+]

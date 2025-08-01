@@ -1,0 +1,53 @@
+firstName,lastName,email,gender,mobile,birthDate,subjects,hobbies,filePath,address,state,city
+Marta,Ramirez,marta.ramirez@gmail.com,Other,6954384178,9 Jun 1997,Maths,Sports,subjets.txt,Calle 86 Zona 6,Haryana,Panipat
+Marta,Ramirez,marta.ramirez@gmail.com,Other,6954384178,9 Jun 1997,Maths,Sports,subjets.txt,Calle 86 Zona 6,Haryana,Panipat
+Marta,Ramirez,marta.ramirez@gmail.com,Other,6954384178,9 Jun 1997,Maths,Sports,subjets.txt,Calle 86 Zona 6,Haryana,Panipat
+Jorge,Mendoza,jorge.mendoza@gmail.com,Male,6235770821,28 Jul 1983,"English, Chemistry, Physics",Music,subjets.txt,Calle 62 Zona 2,Uttar Pradesh,Merrut
+Carlos,Martinez,carlos.martinez@yahoo.com,Other,6889797872,1 Feb 2001,"Maths, Physics","Sports, Reading",subjets.txt,Calle 37 Zona 5,NCR,Noida
+Pedro,Jimenez,pedro.jimenez@yahoo.com,Other,9640769025,11 Jan 1984,"Physics, History, Biology","Reading, Sports",subjets.txt,Calle 42 Zona 10,NCR,Noida
+Pedro,Martinez,pedro.martinez@outlook.com,Female,9411152547,27 Jan 2002,English,"Reading, Music",subjets.txt,Calle 91 Zona 3,Uttar Pradesh,Agra
+Marta,Mendoza,marta.mendoza@gmail.com,Other,8038608067,5 Dec 1981,"History, Chemistry, English","Reading, Music, Sports",subjets.txt,Calle 28 Zona 7,NCR,Gurgaon
+Carlos,Torres,carlos.torres@yahoo.com,Male,7469149739,21 Nov 1989,"Maths, Biology, Physics",Reading,subjets.txt,Calle 81 Zona 3,Rajasthan,Jaiselmer
+Carlos,Ramirez,carlos.ramirez@outlook.com,Other,9041840397,25 Apr 2003,"Biology, Chemistry","Sports, Reading",subjets.txt,Calle 89 Zona 2,Uttar Pradesh,Agra
+Lucia,Mendoza,lucia.mendoza@outlook.com,Other,8703964497,23 Apr 1992,"English, Chemistry","Reading, Sports, Music",subjets.txt,Calle 84 Zona 2,NCR,Gurgaon
+Lucia,Ramirez,lucia.ramirez@yahoo.com,Female,6731683310,10 Aug 1994,"Chemistry, Maths, Biology","Music, Reading, Sports",subjets.txt,Calle 21 Zona 4,Haryana,Karnal
+Ana,Perez,ana.perez@outlook.com,Male,6127202112,5 Dec 1996,"Chemistry, English, Maths","Sports, Music",subjets.txt,Calle 47 Zona 9,Haryana,Karnal
+Carlos,Torres,carlos.torres@gmail.com,Male,7609732691,23 May 1983,English,"Sports, Music, Reading",subjets.txt,Calle 30 Zona 9,Rajasthan,Jaipur
+Carlos,Lopez,carlos.lopez@outlook.com,Female,8890473778,26 Oct 2000,"Maths, Physics",Music,subjets.txt,Calle 51 Zona 8,Uttar Pradesh,Lucknow
+Juan,Mendoza,juan.mendoza@outlook.com,Male,6225481860,2 Sep 1990,English,Music,subjets.txt,Calle 60 Zona 6,Haryana,Panipat
+Lucia,Perez,lucia.perez@gmail.com,Other,9382229381,19 Mar 1997,Maths,"Sports, Reading",subjets.txt,Calle 16 Zona 9,NCR,Delhi
+Sofia,Ramirez,sofia.ramirez@outlook.com,Male,8682962378,24 Jul 1990,"History, English, Chemistry",Sports,subjets.txt,Calle 73 Zona 9,Uttar Pradesh,Lucknow
+Lucia,Ramirez,lucia.ramirez@gmail.com,Male,9007221564,21 Mar 1989,"Biology, History","Reading, Sports, Music",subjets.txt,Calle 24 Zona 7,Haryana,Karnal
+Ana,Garcia,ana.garcia@gmail.com,Male,8896245094,19 May 1980,"Biology, Maths, Physics","Sports, Music, Reading",subjets.txt,Calle 26 Zona 3,NCR,Delhi
+Luis,Ramirez,luis.ramirez@yahoo.com,Male,7574133795,27 Nov 1995,"Maths, History, English",Reading,subjets.txt,Calle 60 Zona 8,Uttar Pradesh,Lucknow
+Carlos,Torres,carlos.torres@gmail.com,Male,9038014158,11 Aug 2005,"English, Chemistry, History","Music, Reading",subjets.txt,Calle 59 Zona 6,Uttar Pradesh,Merrut
+Jorge,Jimenez,jorge.jimenez@gmail.com,Female,9197554496,10 Sep 2005,"History, Physics","Reading, Music",subjets.txt,Calle 61 Zona 9,NCR,Noida
+Pedro,Ramirez,pedro.ramirez@gmail.com,Other,8977500441,11 Aug 1994,"Maths, English, Biology","Music, Reading, Sports",subjets.txt,Calle 34 Zona 5,Haryana,Karnal
+Laura,Torres,laura.torres@yahoo.com,Other,7375610999,2 Feb 1987,Physics,"Reading, Music, Sports",subjets.txt,Calle 94 Zona 6,NCR,Noida
+Lucia,Lopez,lucia.lopez@outlook.com,Female,6479577944,27 Jul 2000,Chemistry,"Sports, Music, Reading",subjets.txt,Calle 56 Zona 9,Rajasthan,Jaipur
+Laura,Garcia,laura.garcia@yahoo.com,Other,9636215608,3 Jun 2000,"Physics, Maths, English","Sports, Music",subjets.txt,Calle 64 Zona 7,Uttar Pradesh,Merrut
+Ana,Lopez,ana.lopez@outlook.com,Other,7477151228,25 Apr 1985,"English, Biology","Reading, Sports",subjets.txt,Calle 67 Zona 7,NCR,Gurgaon
+Lucia,Torres,lucia.torres@yahoo.com,Female,7702861230,23 Mar 1994,"English, Biology, Physics","Reading, Music, Sports",subjets.txt,Calle 16 Zona 1,NCR,Delhi
+Sofia,Mendoza,sofia.mendoza@outlook.com,Other,6339701031,28 Apr 1998,"Maths, Chemistry","Reading, Music, Sports",subjets.txt,Calle 70 Zona 3,Haryana,Karnal
+Laura,Perez,laura.perez@yahoo.com,Other,8687865655,27 Apr 1992,"Maths, English",Reading,subjets.txt,Calle 47 Zona 4,NCR,Noida
+Juan,Ramirez,juan.ramirez@yahoo.com,Female,6284698344,13 Feb 1984,"Chemistry, Physics, History","Reading, Sports, Music",subjets.txt,Calle 46 Zona 7,NCR,Noida
+Marta,Jimenez,marta.jimenez@gmail.com,Other,9759388650,20 Nov 2000,English,Reading,subjets.txt,Calle 57 Zona 3,Rajasthan,Jaiselmer
+Carlos,Mendoza,carlos.mendoza@yahoo.com,Male,9079802616,28 Jun 1984,Physics,Music,subjets.txt,Calle 29 Zona 8,NCR,Noida
+Pedro,Ramirez,pedro.ramirez@outlook.com,Other,7744521155,4 May 2004,"Chemistry, English","Music, Reading",subjets.txt,Calle 72 Zona 3,NCR,Noida
+Pedro,Torres,pedro.torres@gmail.com,Male,9171236440,15 May 2000,Biology,"Music, Reading",subjets.txt,Calle 50 Zona 3,Haryana,Karnal
+Pedro,Ramirez,pedro.ramirez@yahoo.com,Female,8719063782,23 Oct 1997,"Physics, Chemistry",Music,subjets.txt,Calle 35 Zona 6,Rajasthan,Jaipur
+Sofia,Torres,sofia.torres@outlook.com,Other,9364422766,20 May 1992,"Maths, History","Sports, Music",subjets.txt,Calle 41 Zona 9,Uttar Pradesh,Merrut
+Pedro,Jimenez,pedro.jimenez@gmail.com,Female,7378412632,11 Apr 2001,"Chemistry, History",Music,subjets.txt,Calle 71 Zona 5,Rajasthan,Jaiselmer
+Lucia,Mendoza,lucia.mendoza@outlook.com,Female,7488877109,25 Feb 1986,Physics,"Sports, Music, Reading",subjets.txt,Calle 100 Zona 7,NCR,Gurgaon
+Juan,Perez,juan.perez@yahoo.com,Female,7993138542,3 Jul 1982,"History, Biology, English","Music, Reading",subjets.txt,Calle 31 Zona 1,Haryana,Panipat
+Jorge,Ramirez,jorge.ramirez@gmail.com,Other,6229692603,28 Jul 1999,"Biology, Physics, English","Sports, Reading",subjets.txt,Calle 20 Zona 10,NCR,Delhi
+Luis,Ramirez,luis.ramirez@yahoo.com,Other,7608403952,23 Sep 2001,"Chemistry, Maths","Sports, Music",subjets.txt,Calle 85 Zona 4,Rajasthan,Jaiselmer
+Ana,Garcia,ana.garcia@yahoo.com,Other,9319097632,14 May 1983,English,Music,subjets.txt,Calle 50 Zona 8,Haryana,Karnal
+Sofia,Ramirez,sofia.ramirez@outlook.com,Other,6142009356,12 Mar 1990,"English, Maths","Reading, Sports, Music",subjets.txt,Calle 11 Zona 2,Uttar Pradesh,Merrut
+Lucia,Mendoza,lucia.mendoza@outlook.com,Female,8797290598,7 Jun 1985,History,"Sports, Music",subjets.txt,Calle 91 Zona 8,Haryana,Panipat
+Jorge,Perez,jorge.perez@outlook.com,Female,8080579167,22 Mar 1990,"Physics, Chemistry",Reading,subjets.txt,Calle 21 Zona 8,NCR,Delhi
+Marta,Martinez,marta.martinez@yahoo.com,Male,9053613271,20 Nov 2000,"Physics, Biology, History","Sports, Music",subjets.txt,Calle 79 Zona 5,NCR,Noida
+Luis,Garcia,luis.garcia@gmail.com,Female,7446396360,24 Jul 1990,Physics,"Sports, Reading",subjets.txt,Calle 45 Zona 2,Rajasthan,Jaiselmer
+Marta,Lopez,marta.lopez@gmail.com,Male,7166867784,17 Mar 1998,"Chemistry, English, Maths",Music,subjets.txt,Calle 10 Zona 8,Rajasthan,Jaiselmer
+Carlos,Ramirez,carlos.ramirez@outlook.com,Other,8430051962,6 Jan 1987,"Physics, Maths",Sports,subjets.txt,Calle 46 Zona 9,Haryana,Panipat
+Laura,Jimenez,laura.jimenez@yahoo.com,Other,7888856810,18 Nov 1982,"English, Biology",Music,subjets.txt,Calle 83 Zona 1,Haryana,Karnal
